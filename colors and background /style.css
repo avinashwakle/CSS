@@ -1,0 +1,35 @@
+body {
+    background-color: #f2f2f2;
+}
+
+/* Text Color */
+h1 {
+    color: #1e3a8a;
+    text-align: center;
+}
+
+/* Background Color */
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 25px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+/* Different Text Color */
+.card h2 {
+    color: #2563eb;
+}
+
+.card p {
+    color: #555;
+}
+
+/* Button Color */
+button {
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
