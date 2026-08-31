@@ -1,0 +1,32 @@
+body {
+    background-color: #f2f2f2;
+}
+
+/* Heading Margin */
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Box */
+.box {
+    width: 350px;
+
+    /* Space outside the box */
+    margin: 50px auto;
+
+    /* Space inside the box */
+    padding: 30px;
+
+    background-color: lightblue;
+}
+
+/* Different Padding */
+.box h2 {
+    padding-bottom: 10px;
+}
+
+/* Margin between elements */
+.box p {
+    margin-top: 20px;
+}
