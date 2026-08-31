@@ -1,0 +1,33 @@
+/* Universal Selector */
+* {
+    font-family: Arial, sans-serif;
+}
+
+/* Element Selector */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Class Selector */
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#special {
+    color: red;
+    font-size: 20px;
+}
+
+/* Descendant Selector */
+div p {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+/* Grouping Selector */
+h2, p {
+    margin: 15px;
+}
