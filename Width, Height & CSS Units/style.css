@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    margin: 30px;
+}
+
+/* Fixed Width */
+.px-box {
+    width: 300px;
+    height: 100px;
+    margin: 20px auto;
+    background-color: lightblue;
+}
+
+/* Percentage Width */
+.percent-box {
+    width: 70%;
+    height: 100px;
+    margin: 20px auto;
+    background-color: lightgreen;
+}
+
+/* Viewport Width */
+.viewport-box {
+    width: 50vw;
+    height: 20vh;
+    margin: 20px auto;
+    background-color: lightcoral;
+}
