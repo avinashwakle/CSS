@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    margin: 40px;
+}
+
+/* Block */
+.block {
+    display: block;
+    background-color: lightblue;
+    padding: 20px;
+    margin: 15px;
+}
+
+/* Inline */
+.inline {
+    display: inline;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+/* Inline-Block */
+.inline-block {
+    display: inline-block;
+    width: 150px;
+    padding: 20px;
+    margin: 20px 5px;
+    background-color: lightcoral;
+}
+
+/* None */
+.hidden {
+    display: none;
+}
