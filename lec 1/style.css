@@ -1,0 +1,28 @@
+.card {
+    width: 300px;
+    margin: 100px auto;
+  
+    padding: 25px;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+
+/* Styling the heading */
+h1 {
+    color: darkblue;
+}
+
+/* Styling the paragraph */
+p {
+    font-size: 18px;
+}
+
+/* Styling the button */
+button {
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
